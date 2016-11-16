@@ -1,0 +1,20 @@
+{
+  "name": "npm_test",
+  "version": "1.0.0",
+  "description": "My attempt at creating a twitterbot",
+  "main": "bot.js",
+  "dependencies": {
+    "twit": "^2.2.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"  
+  },
+  "keywords": [
+    "judgmental",
+    "twitterbot"
+  ],
+  "author": "Katarzyna Pilzak",
+  "license": "ISC"
+}
